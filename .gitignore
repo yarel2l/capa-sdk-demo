@@ -1,0 +1,42 @@
+# Reflex generated
+.web/
+.states/
+*.db
+
+# Python
+*.py[cod]
+__pycache__/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# User uploads and exports
+uploaded_images/
+uploaded_files/
+exports/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
