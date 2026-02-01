@@ -1,8 +1,7 @@
-
 reflex==0.8.26
-# Add the parent directory to Python path to import capa
--e ../
-# Additional dependencies for the demo
+capa-sdk>=1.1.0
 plotly>=5.18.0
 pandas>=2.1.0
 pillow>=10.0.0
+numpy>=2.0.0
+opencv-python>=4.10.0
